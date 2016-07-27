@@ -1,4 +1,4 @@
-nav.navbar-inverse {
-	background-color: #9AFFA0;
-	color: #42FF4C;
+.navbar-inverse .navbar-brand:hover {
+    background-color: transparent;
+    color: #999999;
 }
