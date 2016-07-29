@@ -1,5 +1,5 @@
 body {
-	background-image: url("/assets/images/skulls.png");
+	background-image: url("../images/skulls.png");
 	background-size: cover;
 }
 .navbar-inverse .navbar-brand:hover {
