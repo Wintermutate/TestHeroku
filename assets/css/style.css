@@ -1,3 +1,7 @@
+body {
+	background-image: url("/assets/images/skulls.png");
+	background-size: cover;
+}
 .navbar-inverse .navbar-brand:hover {
     background-color: transparent;
     color: #999999;
