@@ -8,11 +8,14 @@ div.well.well-sm {
 	width: 300px;
 	height: 115px;
 	float: right;
+	margin-right: 75px;
+	margin-top: 50px;
 }
 div.panel.panel-default {
-	width: 800px;
+	width: 60%;
 	height: auto;
 	display: inline-block;
+	margin-left: 50px;
 }
 img.social {
 	width: 90px;
@@ -29,8 +32,13 @@ img.social {
     color: #999999;
 }
 h1 {
-	margin-top: 0px;
-	margin-bottom: 10px;
+	border-bottom:1px solid #CCC;
+    float:left;
+    width:100%;
+    padding-bottom:3px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-family: 'Signika', sans-serif;
 }
 #footer {
 	background:#000000;
